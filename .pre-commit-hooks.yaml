@@ -3,5 +3,5 @@
     entry: autoflake
     language: python
     files: \.py$
-    args: []
+    args: ['-i']
 
