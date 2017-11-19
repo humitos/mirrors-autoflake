@@ -1,0 +1,7 @@
+-   id: autoflake
+    name: autoflake
+    entry: autoflake
+    language: python
+    files: \.py$
+    args: []
+
