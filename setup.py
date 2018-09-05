@@ -1,8 +1,7 @@
 from setuptools import setup
 
-
 setup(
     name='pre_commit_dummy_package',
-    version='0.0.0',
-    install_requires=['autoflake==1.1'],
+    version='1.2',
+    install_requires=['autoflake==1.2'],
 )
