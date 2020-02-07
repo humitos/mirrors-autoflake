@@ -1,7 +1,5 @@
 -   id: autoflake
     name: autoflake
-    entry: autoflake
+    entry: autoflake --in-place
     language: python
     files: \.py$
-    args: ['-i']
-
